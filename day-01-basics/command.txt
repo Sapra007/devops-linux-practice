@@ -1,0 +1,8 @@
+pwd
+ls -la
+cd /
+cd ~
+whoami
+hostname
+uname -a
+uptime
